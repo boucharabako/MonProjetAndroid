@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Projet</string>
+    <string name="ajouter_un_contact">Ajouter un contact</string>
+    <string name="voir_les_messages">Voir les messages</string>
+    <string name="liste_des_contacts">Liste des contacts</string>
+    <string name="message">message</string>
+    <string name="enr_gistrement_d_un_contact">Enrégistrement d\'un contact!</string>
+    <string name="num_ro_de_t_l_phone">Numéro de téléphone</string>
+    <string name="enr_gistrer">Enrégistrer</string>
+</resources>

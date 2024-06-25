@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <dimen name="title_h1">40sp</dimen>
+    <dimen name="image_width">124dp</dimen>
+    <dimen name="image_height">152dp</dimen>
+    <dimen name="edit_text_height">60dp</dimen>
+    <dimen name="edit_text_margin">5dp</dimen>
+    <dimen name="button_width">150dp</dimen>
+    <dimen name="button_text_size">20sp</dimen>
+    <dimen name="cardView_marginBottom">-20dp</dimen>
+    <dimen name="cardView_cardCornerRadius">28dp</dimen>
+    <dimen name="linearLayout_padding">28dp</dimen>
+</resources>

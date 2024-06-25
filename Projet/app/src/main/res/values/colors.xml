@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="my_red">#900A0A</color>
+    <color name="my_blue">#104cfe</color>
+    <color name="my_green">#068212</color>
+
+
+    <color name="my_primary">#293A0B</color>
+    <color name="my_secondary">#3AB76E</color>
+    <color name="my_second_blue">#010728</color>
+    <color name="background_gradient_start">#000000</color>
+    <color name="background_gradient_end">#DDDDDD</color>
+    <color name="fastlane_background">#0096a6</color>
+    <color name="search_opaque">#ffaa3f</color>
+    <color name="selected_background">#ffaa3f</color>
+    <color name="default_background">#3d3d3d</color>
+
+</resources>
